@@ -1,0 +1,2140 @@
+canonical_identifier: bkk:krp/KR6r0187/v1
+canonical_location: https://kanripo.org/bkk/KR6r0187/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 續比丘尼傳
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/CC/CC001/CC001n0001.xml
+    old_id: CC001n0001
+  edition:
+    short: bkk
+editions:
+- short: 選集
+  label: 選集
+  source_xml_id: wit.orig
+- short: CC
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0187_000.yaml, hash: 'sha256:ad11be031507f467311c5226b98c4aa36262cf35dfc4d6238629c4e559630000'}
+  - {seq: 1, filename: KR6r0187_001.yaml, hash: 'sha256:8248468d37a3262f0842c6f54fe7d3f6afe2a4da0772413b05ba003c9c58a9c5'}
+  - {seq: 2, filename: KR6r0187_002.yaml, hash: 'sha256:2a46c26a3145869685bd05c3f631110e289e5d4a83205ac3bcb1ec05dbea0067'}
+  - {seq: 3, filename: KR6r0187_003.yaml, hash: 'sha256:774aef4c5f9be2aac58c6350aaa2318b3825abb36f8bf9927769ff954063d832'}
+  - {seq: 4, filename: KR6r0187_004.yaml, hash: 'sha256:259ae2cc851095729c33f32112626969f14bb8928c6ee82449b2d22dd6b0ab4d'}
+  - {seq: 5, filename: KR6r0187_005.yaml, hash: 'sha256:206b5014d26f14a3bb487f8f3f12d1b20b2374ba7987ba516d34df28cdf4ecc6'}
+  - {seq: 6, filename: KR6r0187_006.yaml, hash: 'sha256:fc00a5fd206b728b48212b0d80b0d562055142a26ef2cac2c3702ad8fd5ef14b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0187_000.markers.yaml, hash: 'sha256:a8ef86933631a566d5c8068930260e86493192ee6b365f34a31ed8fe40da08ab'}
+  - {seq: 1, role: markers, filename: assets/KR6r0187_001.markers.yaml, hash: 'sha256:b26f94a11a5200319c2ca15de25f00cd233d51e133541dfae738c536016c1d44'}
+  - {seq: 2, role: markers, filename: assets/KR6r0187_002.markers.yaml, hash: 'sha256:4ebeb86e8bb55c9c2f1f78c51aa2e29dccf61fbea1c4991d6ab6fb4790f4e95d'}
+  - {seq: 3, role: markers, filename: assets/KR6r0187_003.markers.yaml, hash: 'sha256:5f69d45a8ab26e21b83612aaacae0141a7a7fe396f8b9a81f2a73c072db1178d'}
+  - {seq: 4, role: markers, filename: assets/KR6r0187_004.markers.yaml, hash: 'sha256:2ab01980ffbf761dca9551eb4cf0b85f228ade13c88a4cc678f1964772cd9541'}
+  - {seq: 5, role: markers, filename: assets/KR6r0187_005.markers.yaml, hash: 'sha256:1a0d9bcb34c6367b6e4815b7f59c12961aadec76701591006f0c4c3768e38958'}
+  - {seq: 6, role: markers, filename: assets/KR6r0187_006.markers.yaml, hash: 'sha256:ae66e0d6a81fb2c5f8c6e4af9a71e99a59409baa9e8a983ab318399520d6c70b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0187_CC_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 守培序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0187_CC_000-mulu-2
+    span:
+    - front
+    - 682
+    - 682
+  label: 自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-juan-start
+    span:
+    - body
+    - 0
+    - 9661
+  label: 續比丘尼傳卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 一、梁湖州法華寺尼道蹟傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-2
+    span:
+    - body
+    - 187
+    - 187
+  label: 二、梁揚州某庵尼僧法傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-3
+    span:
+    - body
+    - 445
+    - 445
+  label: 三、梁宜都紫竹庵尼太清傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-4
+    span:
+    - body
+    - 532
+    - 532
+  label: 四、陳高郵某庵尼華手傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-5
+    span:
+    - body
+    - 644
+    - 644
+  label: 五、北齊五臺祕魔巖尼法祕傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-6
+    span:
+    - body
+    - 744
+    - 744
+  label: 六、隋同州般若寺尼智仙傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-7
+    span:
+    - body
+    - 1244
+    - 1244
+  label: 七、唐河東某庵尼法信傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-8
+    span:
+    - body
+    - 1385
+    - 1385
+  label: 八、唐潯陽某庵尼妙空傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-9
+    span:
+    - body
+    - 1498
+    - 1498
+  label: 九、唐汾州西河尼大明傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-10
+    span:
+    - body
+    - 1584
+    - 1584
+  label: 一〇、唐荊州姊妹二尼傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-11
+    span:
+    - body
+    - 1716
+    - 1716
+  label: 一一、唐綿竹淨惠寺尼信相傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-12
+    span:
+    - body
+    - 1933
+    - 1933
+  label: 一二、唐長安積善寺尼淨真傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-13
+    span:
+    - body
+    - 2062
+    - 2062
+  label: 一三、唐長安濟度寺尼法願傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-14
+    span:
+    - body
+    - 2921
+    - 2921
+  label: 一四、唐長安道德寺尼無量傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-15
+    span:
+    - body
+    - 3025
+    - 3025
+  label: 一五、唐蘇州混山尼傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-16
+    span:
+    - body
+    - 3264
+    - 3264
+  label: 一六、唐長安宣化寺尼堅行傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-17
+    span:
+    - body
+    - 3410
+    - 3410
+  label: 一七、唐長安興聖寺尼法澄傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-18
+    span:
+    - body
+    - 4007
+    - 4007
+  label: 一八、唐長安安國寺尼持法傳（附．慧忍空姑傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-19
+    span:
+    - body
+    - 4136
+    - 4136
+  label: 一九、唐長安濟度寺尼惠源傳（附．慈和傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-20
+    span:
+    - body
+    - 4746
+    - 4746
+  label: 二〇、唐洛陽安國寺尼惠隱傳（附．德傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-21
+    span:
+    - body
+    - 5196
+    - 5196
+  label: 二一、唐韶州曹侯村尼無盡藏傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-22
+    span:
+    - body
+    - 5379
+    - 5379
+  label: 二二、唐藤州通善寺尼智首傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-23
+    span:
+    - body
+    - 5551
+    - 5551
+  label: 二三、唐溫州淨居寺尼元機傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-24
+    span:
+    - body
+    - 5753
+    - 5753
+  label: 二四、唐寶應河壖尼真如傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-25
+    span:
+    - body
+    - 6237
+    - 6237
+  label: 二五、唐長安某庵尼功德山傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-26
+    span:
+    - body
+    - 6417
+    - 6417
+  label: 二六、唐南康廬山尼悟性傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-27
+    span:
+    - body
+    - 6506
+    - 6506
+  label: 二七、唐衡岳某庵尼無染傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-28
+    span:
+    - body
+    - 6583
+    - 6583
+  label: 二八、唐長安真化寺尼如願傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-29
+    span:
+    - body
+    - 7061
+    - 7061
+  label: 二九、唐婺州金華山尼實際傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-30
+    span:
+    - body
+    - 7261
+    - 7261
+  label: 三〇、唐臺建安寺尼法空傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-31
+    span:
+    - body
+    - 7743
+    - 7743
+  label: 三一、唐洪州天宮寺尼妙寂傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-32
+    span:
+    - body
+    - 8710
+    - 8710
+  label: 三二、唐長安龍花寺尼契義傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-33
+    span:
+    - body
+    - 9188
+    - 9188
+  label: 三三、唐丹陽三昧王寺尼法潤傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-34
+    span:
+    - body
+    - 9302
+    - 9302
+  label: 三四、唐瑞州末山尼了然傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0187_CC_001-mulu-35
+    span:
+    - body
+    - 9551
+    - 9551
+  label: 三五、唐西蜀慈光寺尼海印傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-juan-start
+    span:
+    - body
+    - 0
+    - 6213
+  label: 續比丘尼傳卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 三六、五代永明石佛寺尼昌志傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-2
+    span:
+    - body
+    - 131
+    - 131
+  label: 三七、宋太原某庵尼智藏傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-3
+    span:
+    - body
+    - 331
+    - 331
+  label: 三八、宋東都崇真資聖院尼清裕傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-4
+    span:
+    - body
+    - 586
+    - 586
+  label: 三九、宋西湖某庵尼勤超傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-5
+    span:
+    - body
+    - 846
+    - 846
+  label: 四〇、宋平江西竺寺尼法海傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-6
+    span:
+    - body
+    - 962
+    - 962
+  label: 四一、宋建寧福國庵尼覺庵傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-7
+    span:
+    - body
+    - 1090
+    - 1090
+  label: 四二、宋東都妙慧寺尼慧光傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-8
+    span:
+    - body
+    - 1304
+    - 1304
+  label: 四三、宋蘇州西竺寺尼智通傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-9
+    span:
+    - body
+    - 1703
+    - 1703
+  label: 四四、宋溫州淨居寺尼慧溫傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-10
+    span:
+    - body
+    - 1806
+    - 1806
+  label: 四五、宋蘇州資壽寺尼慧照傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-11
+    span:
+    - body
+    - 1967
+    - 1967
+  label: 四六、宋關西某庵尼真如傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-12
+    span:
+    - body
+    - 2213
+    - 2213
+  label: 四七、宋蘇州資壽寺尼妙總傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-13
+    span:
+    - body
+    - 2964
+    - 2964
+  label: 四八、宋溫州淨居寺尼妙道傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-14
+    span:
+    - body
+    - 3363
+    - 3363
+  label: 四九、宋遂寧香山尼佛通傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-15
+    span:
+    - body
+    - 3483
+    - 3483
+  label: 五〇、宋平江妙湛寺尼文照傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-16
+    span:
+    - body
+    - 3679
+    - 3679
+  label: 五一、宋永嘉妙果寺尼文贊傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-17
+    span:
+    - body
+    - 3778
+    - 3778
+  label: 五二、宋溫州淨居寺尼法燈傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-18
+    span:
+    - body
+    - 3884
+    - 3884
+  label: 五三、宋海鹽法雲寺尼正覺傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-19
+    span:
+    - body
+    - 4009
+    - 4009
+  label: 五四、宋蘇州李氏庵尼祖懃傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-20
+    span:
+    - body
+    - 4139
+    - 4139
+  label: 五五、宋常州淨慧寺尼德英傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-21
+    span:
+    - body
+    - 4252
+    - 4252
+  label: 五六、宋南昌妙住庵尼黃心傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-22
+    span:
+    - body
+    - 4796
+    - 4796
+  label: 五七、宋錢塘某庵尼能奉傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-23
+    span:
+    - body
+    - 4919
+    - 4919
+  label: 五八、宋明州楊氏庵尼慧安傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-24
+    span:
+    - body
+    - 5060
+    - 5060
+  label: 五九、宋衢州淨信庵尼劉鐵磨傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-25
+    span:
+    - body
+    - 5193
+    - 5193
+  label: 六〇、宋德州楊樹庵尼白佛傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-26
+    span:
+    - body
+    - 5307
+    - 5307
+  label: 六一、宋松江寂照院尼如湛傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-27
+    span:
+    - body
+    - 5503
+    - 5503
+  label: 六二、宋仙居淨勝院尼了證傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-28
+    span:
+    - body
+    - 5683
+    - 5683
+  label: 六三、宋仙居如來庵尼道輝傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-29
+    span:
+    - body
+    - 5826
+    - 5826
+  label: 六四、宋蘇州延聖院尼法珍傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0187_CC_002-mulu-30
+    span:
+    - body
+    - 5988
+    - 5988
+  label: 六五、宋西湖五雲山尼楊淑芳傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-juan-start
+    span:
+    - body
+    - 0
+    - 5632
+  label: 續比丘尼傳卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 六六、元京師妙善寺尼舍藍藍傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-2
+    span:
+    - body
+    - 579
+    - 579
+  label: 六七、元桐鄉福壽寺尼文鑑傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-3
+    span:
+    - body
+    - 698
+    - 698
+  label: 六八、元紹興大慶庵尼智悟傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-4
+    span:
+    - body
+    - 1004
+    - 1004
+  label: 六九、元黃巖接待庵尼覺真傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-5
+    span:
+    - body
+    - 1246
+    - 1246
+  label: 七〇、元燕京藥師庵尼性悅傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-6
+    span:
+    - body
+    - 1551
+    - 1551
+  label: 七一、元杭州西天目山尼普貴傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-7
+    span:
+    - body
+    - 1697
+    - 1697
+  label: 七二、元杭州西天目山尼楊妙錫傳（附．梅花尼傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-8
+    span:
+    - body
+    - 1923
+    - 1923
+  label: 七三、元某縣長明庵尼妙湛傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-9
+    span:
+    - body
+    - 2089
+    - 2089
+  label: 七四、明沙縣某庵尼常淨傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-10
+    span:
+    - body
+    - 2261
+    - 2261
+  label: 七五、明安東吉祥庵尼寂性傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-11
+    span:
+    - body
+    - 2436
+    - 2436
+  label: 七六、明莒州某庵尼悟蓮傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-12
+    span:
+    - body
+    - 2707
+    - 2707
+  label: 七七、明蕭山某庵尼無為傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-13
+    span:
+    - body
+    - 2871
+    - 2871
+  label: 七八、明杭州孝義庵尼袾錦傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-14
+    span:
+    - body
+    - 3368
+    - 3368
+  label: 七九、明杭州孝義庵尼廣覺傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-15
+    span:
+    - body
+    - 3773
+    - 3773
+  label: 八〇、明蘇州寒山庵尼竺禮傳（附．崇範傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-16
+    span:
+    - body
+    - 3925
+    - 3925
+  label: 八一、明永明迴龍庵尼慧秀傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-17
+    span:
+    - body
+    - 4069
+    - 4069
+  label: 八二、明南都法華庵尼覺清傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-18
+    span:
+    - body
+    - 4307
+    - 4307
+  label: 八三、明歸德水晶庵尼獨目金剛傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-19
+    span:
+    - body
+    - 4627
+    - 4627
+  label: 八四、明常州楞伽庵尼慧貞傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-20
+    span:
+    - body
+    - 4795
+    - 4795
+  label: 八五、明廣州總持庵尼成慈傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-21
+    span:
+    - body
+    - 5302
+    - 5302
+  label: 八六、明廣州真梵庵尼成靜傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0187_CC_003-mulu-22
+    span:
+    - body
+    - 5484
+    - 5484
+  label: 八七、明山陽紫竹庵尼悟道傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-juan-start
+    span:
+    - body
+    - 0
+    - 9620
+  label: 續比丘尼傳卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 八八、清白下某庵尼靜照傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-2
+    span:
+    - body
+    - 245
+    - 245
+  label: 八九、清江陰敔山庵尼通光傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-3
+    span:
+    - body
+    - 635
+    - 635
+  label: 九〇、清廣州嚴淨庵尼等齡傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-4
+    span:
+    - body
+    - 775
+    - 775
+  label: 九一、清嘉興伏獅院尼行剛傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-5
+    span:
+    - body
+    - 1079
+    - 1079
+  label: 九二、清常熟大河靜室尼潮音傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-6
+    span:
+    - body
+    - 1631
+    - 1631
+  label: 九三、清嘉興寶珠庵尼明修傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-7
+    span:
+    - body
+    - 1809
+    - 1809
+  label: 九四、清會城某庵尼靜主傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-8
+    span:
+    - body
+    - 1950
+    - 1950
+  label: 九五、清桐鄉某庵尼德密傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-9
+    span:
+    - body
+    - 2072
+    - 2072
+  label: 九六、清廣陵某庵尼超一傳（附．涵光傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-10
+    span:
+    - body
+    - 2281
+    - 2281
+  label: 九七、清漢陽某庵尼心聞傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-11
+    span:
+    - body
+    - 2733
+    - 2733
+  label: 九八、清泰州青蓮庵尼德日傳（附．德月傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-12
+    span:
+    - body
+    - 2981
+    - 2981
+  label: 九九、清南海檀度庵尼自悟傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-13
+    span:
+    - body
+    - 3152
+    - 3152
+  label: 一〇〇、清南海檀度庵尼無我傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-14
+    span:
+    - body
+    - 3339
+    - 3339
+  label: 一〇一、清興化普渡庵尼醒徹傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-15
+    span:
+    - body
+    - 3642
+    - 3642
+  label: 一〇二、清吳縣西洞庭山尼德隱傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-16
+    span:
+    - body
+    - 3937
+    - 3937
+  label: 一〇三、清常熟直指庵尼行玄傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-17
+    span:
+    - body
+    - 4159
+    - 4159
+  label: 一〇四、清當湖思禪庵尼行浩傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-18
+    span:
+    - body
+    - 4317
+    - 4317
+  label: 一〇五、清淮安拈花社尼傳慧傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-19
+    span:
+    - body
+    - 4714
+    - 4714
+  label: 一〇六、清檇李明因庵尼本信傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-20
+    span:
+    - body
+    - 4903
+    - 4903
+  label: 一〇七、清杭州雄聖庵尼行致傳（附．智生傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-21
+    span:
+    - body
+    - 5294
+    - 5294
+  label: 一〇八、清如皐普照庵尼行清傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-22
+    span:
+    - body
+    - 5545
+    - 5545
+  label: 一〇九、清秀州蓮花庵尼可度傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-23
+    span:
+    - body
+    - 5721
+    - 5721
+  label: 一一〇、清檇李明因庵尼佛音傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-24
+    span:
+    - body
+    - 5911
+    - 5911
+  label: 一一一、清崇明自登庵尼濟瀛傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-25
+    span:
+    - body
+    - 6148
+    - 6148
+  label: 一一二、清湖州靈瑞庵尼濟苻傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-26
+    span:
+    - body
+    - 6400
+    - 6400
+  label: 一一三、清崑山靈峙庵尼濟印傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-27
+    span:
+    - body
+    - 6646
+    - 6646
+  label: 一一四、清嘉興妙湛庵尼濟總傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-28
+    span:
+    - body
+    - 6841
+    - 6841
+  label: 一一五、清蕪湖太平庵尼玉恩傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-29
+    span:
+    - body
+    - 6981
+    - 6981
+  label: 一一六、清杭州清涼庵尼超祖傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-30
+    span:
+    - body
+    - 7110
+    - 7110
+  label: 一一七、清當湖善護庵尼超見傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-31
+    span:
+    - body
+    - 7283
+    - 7283
+  label: 一一八、清嘉興參同庵尼超琛傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-32
+    span:
+    - body
+    - 7670
+    - 7670
+  label: 一一九、清吳興蕭山庵尼超具傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-33
+    span:
+    - body
+    - 7801
+    - 7801
+  label: 一二〇、清杭州雄聖庵尼超越傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-34
+    span:
+    - body
+    - 7985
+    - 7985
+  label: 一二一、清丹徒正覺庵尼超元傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-35
+    span:
+    - body
+    - 8106
+    - 8106
+  label: 一二二、清鄞縣薜蘿庵尼慧空傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-36
+    span:
+    - body
+    - 8281
+    - 8281
+  label: 一二三、清真州大慈庵尼超濟傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-37
+    span:
+    - body
+    - 8367
+    - 8367
+  label: 一二四、清蘄水增福庵尼兆地傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-38
+    span:
+    - body
+    - 8479
+    - 8479
+  label: 一二五、清武陵筠庵尼隱慧傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-39
+    span:
+    - body
+    - 8668
+    - 8668
+  label: 一二六、清江都拈花庵尼上融傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-40
+    span:
+    - body
+    - 8867
+    - 8867
+  label: 一二七、清蘇州古滌庵尼契蓮傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-41
+    span:
+    - body
+    - 9033
+    - 9033
+  label: 一二八、清無錫龍護庵尼道遇傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-42
+    span:
+    - body
+    - 9155
+    - 9155
+  label: 一二九、清荊州延壽庵尼明本傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-43
+    span:
+    - body
+    - 9289
+    - 9289
+  label: 一三〇、清永嘉白塔庵尼明光傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0187_CC_004-mulu-44
+    span:
+    - body
+    - 9447
+    - 9447
+  label: 一三一、清瑞安雙貞庵尼敏敬傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-juan-start
+    span:
+    - body
+    - 0
+    - 10655
+  label: 續比丘尼傳卷五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 一三二、清仁和萬善庵尼傳正傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-2
+    span:
+    - body
+    - 196
+    - 196
+  label: 一三三、清嘉善某庵尼德容傳（附．智圓傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-3
+    span:
+    - body
+    - 432
+    - 432
+  label: 一三四、清仁和薛支庵尼石巖傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-4
+    span:
+    - body
+    - 570
+    - 570
+  label: 一三五、清姚江伏龍庵尼印月傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-5
+    span:
+    - body
+    - 668
+    - 668
+  label: 一三六、清某縣普應庵尼希古傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-6
+    span:
+    - body
+    - 979
+    - 979
+  label: 一三七、清華亭某庵尼神一傳（附．靜維傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-7
+    span:
+    - body
+    - 1273
+    - 1273
+  label: 一三八、清長洲某庵尼上鑒傳（附．再生傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-8
+    span:
+    - body
+    - 1593
+    - 1593
+  label: 一三九、清通州鴻寶堂尼無垢傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-9
+    span:
+    - body
+    - 1819
+    - 1819
+  label: 一四〇、清杭州明因寺尼元端傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-10
+    span:
+    - body
+    - 1925
+    - 1925
+  label: 一四一、清蘇州葑溪般若庵尼妙惠傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-11
+    span:
+    - body
+    - 2092
+    - 2092
+  label: 一四二、清金陵舊院尼妙慧傳（附．曙光傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-12
+    span:
+    - body
+    - 2357
+    - 2357
+  label: 一四三、清蘇州水月庵尼安生傳（附．元瑛傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-13
+    span:
+    - body
+    - 2613
+    - 2613
+  label: 一四四、清蘇州洞庭東山尼宛仙傳（附．僧鑒傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-14
+    span:
+    - body
+    - 2807
+    - 2807
+  label: 一四五、清吳江紫雲觀尼妙霓傳（附．靜婉、性道傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-15
+    span:
+    - body
+    - 3025
+    - 3025
+  label: 一四六、清滄州插花廟尼董尼傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-16
+    span:
+    - body
+    - 3154
+    - 3154
+  label: 一四七、清無錫福慧庵尼嶽蓮傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-17
+    span:
+    - body
+    - 3268
+    - 3268
+  label: 一四八、清鎮江某庵尼舒霞傳（附．悟清傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-18
+    span:
+    - body
+    - 3536
+    - 3536
+  label: 一四九、清燕都靈官庵尼明本傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-19
+    span:
+    - body
+    - 3901
+    - 3901
+  label: 一五〇、清滄州憩水井尼慧堅傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-20
+    span:
+    - body
+    - 4532
+    - 4532
+  label: 一五一、清昆明清淨寺尼妙德傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-21
+    span:
+    - body
+    - 4641
+    - 4641
+  label: 一五二、清杭州湖上老尼傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-22
+    span:
+    - body
+    - 4759
+    - 4759
+  label: 一五三、清蘇州圓通庵尼本印傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-23
+    span:
+    - body
+    - 4917
+    - 4917
+  label: 一五四、清蘇州白衣庵尼遂欽傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-24
+    span:
+    - body
+    - 5050
+    - 5050
+  label: 一五五、清蘇州圓通庵尼律宗傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-25
+    span:
+    - body
+    - 5221
+    - 5221
+  label: 一五六、清蘇州崇佛庵尼佛琦傳（附．祖潔傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-26
+    span:
+    - body
+    - 5523
+    - 5523
+  label: 一五七、清金陵慈恩庵尼慧照傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-27
+    span:
+    - body
+    - 5783
+    - 5783
+  label: 一五八、清嘉善淨池庵尼朗然傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-28
+    span:
+    - body
+    - 5905
+    - 5905
+  label: 一五九、清湖州廣嚴庵尼妙成傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-29
+    span:
+    - body
+    - 6119
+    - 6119
+  label: 一六〇、清蘇州慈雲庵尼清月傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-30
+    span:
+    - body
+    - 6434
+    - 6434
+  label: 一六一、清秀州草庵尼道乾傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-31
+    span:
+    - body
+    - 6752
+    - 6752
+  label: 一六二、清寧國蘭若庵尼傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-32
+    span:
+    - body
+    - 6871
+    - 6871
+  label: 一六三、清華亭吉祥庵尼道悟傳（附．文信、見心、禪學傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-33
+    span:
+    - body
+    - 7095
+    - 7095
+  label: 一六四、清泰州姜堰觀音庵尼悟真傳（附．修淨傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-34
+    span:
+    - body
+    - 7458
+    - 7458
+  label: 一六五、清泰州泰山行宮尼福海傳（附．慧傳傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-35
+    span:
+    - body
+    - 7749
+    - 7749
+  label: 一六六、清蘇州某庵尼量海傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-36
+    span:
+    - body
+    - 8665
+    - 8665
+  label: 一六七、清寧波青蓮庵尼明恆傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-37
+    span:
+    - body
+    - 8811
+    - 8811
+  label: 一六八、清黃安綠波庵尼人稀傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-38
+    span:
+    - body
+    - 8982
+    - 8982
+  label: 一六九、清泰州曲塘報本庵尼素文傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-39
+    span:
+    - body
+    - 9425
+    - 9425
+  label: 一七〇、清武進大成庵尼青蓮傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-40
+    span:
+    - body
+    - 10040
+    - 10040
+  label: 一七一、清高郵觀音庵尼本蓮傳（附．緒修傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-41
+    span:
+    - body
+    - 10469
+    - 10469
+  label: 一七二、清昆明永樂庵尼清法傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0187_CC_005-mulu-42
+    span:
+    - body
+    - 10551
+    - 10551
+  label: 一七三、清長沙鐵罏寺靈一傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-juan-start
+    span:
+    - body
+    - 0
+    - 16937
+  label: 續比丘尼傳卷六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 一七四、民國揚州福興庵尼信道傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-2
+    span:
+    - body
+    - 504
+    - 504
+  label: 一七五、民國宛平某庵尼如智傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-3
+    span:
+    - body
+    - 789
+    - 789
+  label: 一七六、民國興化金善庵尼杲峰傳（附．智明傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-4
+    span:
+    - body
+    - 1345
+    - 1345
+  label: 一七七、民國台州某庵尼如覺傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-5
+    span:
+    - body
+    - 1708
+    - 1708
+  label: 一七八、民國台州某庵尼蓮貞傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-6
+    span:
+    - body
+    - 2088
+    - 2088
+  label: 一七九、民國蘇州青蓮庵尼了定傳（附．德惠傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-7
+    span:
+    - body
+    - 2538
+    - 2538
+  label: 一八〇、民國鎮江雨華庵尼素密傳（附．素浩、證行）
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-8
+    span:
+    - body
+    - 3082
+    - 3082
+  label: 一八一、民國彭澤淨土庵尼果仁傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-9
+    span:
+    - body
+    - 3528
+    - 3528
+  label: 一八二、民國南通大悲庵尼大悟傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-10
+    span:
+    - body
+    - 3804
+    - 3804
+  label: 一八三、民國彭澤淨土庵尼聖道傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-11
+    span:
+    - body
+    - 4138
+    - 4138
+  label: 一八四、民國東臺蓮華庵尼印根傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-12
+    span:
+    - body
+    - 4666
+    - 4666
+  label: 一八五、民國南京慧月居尼宏源傳（附．能開、學如傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-13
+    span:
+    - body
+    - 4974
+    - 4974
+  label: 一八六、民國江寧天印庵尼圓音傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-14
+    span:
+    - body
+    - 5359
+    - 5359
+  label: 一八七、民國安慶靜室庵尼德成傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-15
+    span:
+    - body
+    - 5620
+    - 5620
+  label: 一八八、民國南匯淨心庵尼淨船傳（附．淨願、華慧、蓮道、蓮勝、華根、華廣傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-16
+    span:
+    - body
+    - 6917
+    - 6917
+  label: 一八九、民國江都德勝庵尼心忠傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-17
+    span:
+    - body
+    - 7521
+    - 7521
+  label: 一九〇、民國某縣圓覺庵尼印心傳（附．慧修、福修、印全、印微、緣修、恆修傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-18
+    span:
+    - body
+    - 8488
+    - 8488
+  label: 一九一、民國無錫普渡庵尼定雲傳（附．智能、定華傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-19
+    span:
+    - body
+    - 10183
+    - 10183
+  label: 一九二、民國泰縣福善庵尼果願傳（附．常清傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-20
+    span:
+    - body
+    - 10612
+    - 10612
+  label: 一九三、民國宜興海會塔院尼覺明傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-21
+    span:
+    - body
+    - 11380
+    - 11380
+  label: 一九四、民國新安靈雲寺尼能修傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-22
+    span:
+    - body
+    - 12298
+    - 12298
+  label: 一九五、民國江寧保國庵尼識參傳（附．月華傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-23
+    span:
+    - body
+    - 13751
+    - 13751
+  label: 一九六、民國泰縣靜修庵尼本道傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-24
+    span:
+    - body
+    - 14156
+    - 14156
+  label: 一九七、民國上海龍音寺尼能圓傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-25
+    span:
+    - body
+    - 14373
+    - 14373
+  label: 一九八、民國上海慈修庵尼諦參傳（附．道願傳）
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-26
+    span:
+    - body
+    - 14962
+    - 14962
+  label: 一九九、民國武進淨觀庵尼天正傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-27
+    span:
+    - body
+    - 15360
+    - 15360
+  label: 二〇〇、民國青陽心安寺尼觀願傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-28
+    span:
+    - body
+    - 15929
+    - 15929
+  label: 樂助功德芳名
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0187_CC_006-mulu-29
+    span:
+    - body
+    - 16408
+    - 16408
+  label: 超塵跋
+  type: mulu
+  level: 1
+hash: sha256:c600700edb33770c8cb7c13d6df940d3d0d154f8b964bfef31ebe55ba1548877
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
