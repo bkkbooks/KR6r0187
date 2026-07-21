@@ -19,7 +19,7 @@ metadata:
     short: CC
 assets:
   parts:
-  - {seq: 0, filename: KR6r0187_000-CC.yaml, hash: 'sha256:448acee15fb8c8103f283e7584ed49118c77f6e45f6bf62a7be322074e4ff09a'}
+  - {seq: 0, filename: KR6r0187_000-CC.yaml, hash: 'sha256:e5f4b7ffbcab0c22ec6a60099487c0c83e0296d39cce304309beec7c541bdea2'}
   - {seq: 1, filename: KR6r0187_001-CC.yaml, hash: 'sha256:e2dbc12624d8dde1fc32770dfb620a802b2fcf89ebdf8d8d7e3ead3d0c00d35e'}
   - {seq: 2, filename: KR6r0187_002-CC.yaml, hash: 'sha256:7f4d31331c1931c7b1a272f3b616b8a70046be558d208912ac33460e87bfe833'}
   - {seq: 3, filename: KR6r0187_003-CC.yaml, hash: 'sha256:9400402c891d12b6fdf352e04d16be07a92c44fb0bc6055f2823f4ee0e8d5e57'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 5, filename: KR6r0187_005-CC.yaml, hash: 'sha256:0e50a0fb64170d97ab74e8c6246bbe2f420f1b2f1e7a7cde846f8632470c383e'}
   - {seq: 6, filename: KR6r0187_006-CC.yaml, hash: 'sha256:29ec02c2430be99f07821648321ddebba4ca094d3fe97caf85f1c4d036059370'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0187_000-CC.markers.yaml, hash: 'sha256:133bc9ee0f5687a35cf60d4fdd0d8a2de24122facd46ef725454b7c4c8304c53'}
+  - {seq: 0, role: markers, filename: assets/KR6r0187_000-CC.markers.yaml, hash: 'sha256:56ee12015962e3ccac524a9d3f0c41895ceb88ee4712b8e8be632d445cbba8fd'}
   - {seq: 1, role: markers, filename: assets/KR6r0187_001-CC.markers.yaml, hash: 'sha256:9b7b33af0b62f1638229c4e99aea53fde39d64886af55a59f3ebdafd5c25feae'}
   - {seq: 2, role: markers, filename: assets/KR6r0187_002-CC.markers.yaml, hash: 'sha256:e5f1ef1dbd91978efec9e671b37cb5da91306a356a3cd9c3dccbc44e0f5a801d'}
   - {seq: 3, role: markers, filename: assets/KR6r0187_003-CC.markers.yaml, hash: 'sha256:ad5163345c4088c6357eb3de9b190b60e30faa174def3827fc71abcbff733e54'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0187_CC_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 守培序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0187_CC_000-mulu-2
     span:
-    - front
+    - body
     - 682
     - 682
   label: 自序
@@ -2135,4 +2135,4 @@ table_of_contents:
   label: 超塵跋
   type: mulu
   level: 1
-hash: sha256:98a76c84e12858d5f93971592f5018697191d0cff5ce2d54ce8c3b373f87f8a3
+hash: sha256:b132a5e9fb9580a2a14f1237e0107d1489ada9983239553c9eb28d0e7f77db8f
